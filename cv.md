@@ -20,13 +20,13 @@ Kharkiv
 
 
 * Personal projects	   
-  + https://crowncaps.bestinf.com/   
-  + https://carcassonne.bestinf.com/ 
+  + [crowncaps.bestinf.com](https://crowncaps.bestinf.com/)   
+  + [carcassonne.bestinf.com](https://carcassonne.bestinf.com/) 
 
 
 ## Education
-| School| Course|
-| ----- | ------|
+| School                              | Course                |
+| ----------------------------------- | --------------------- |
 | Technical University(2005 - 2009 )  | Сomputer engineer     |
 | Easy Code School (2019)             |  PHP                  |
 
